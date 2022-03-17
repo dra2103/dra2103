@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently looking for Software/Developwr Engineer Job
-- 🌱 I’m currently working on a web-page
-- 💬 Ask me to connect!!
+- 🔭 I’m currently looking for Software/Developer Engineer Job Remote-Hybrid-onsite
+- 🌱 I’m currently working on a web-page for my beutiful girlfriend
+- 💬 Ask me to connect!! Would love to learn something new!!
 - 📫 How to reach me: dra2103@gmail.com | www.linkedin.com/in/daniel-adamski
-- ⚡ Fun fact: I have pit/mix and love to watch and play Fútbol
+- ⚡ Fun fact: I have pit/mix and love to watch and play fútbol non-americana...
