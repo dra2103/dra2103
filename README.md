@@ -5,12 +5,12 @@
 </a>
 
 <br/>
-<div>
+
 - 🏠 I am from and currently live in San Diego
 - 🔭 I’m am currently looking for a Software/Developer Engineering Job. Remote-Hybrid-Onsite-Tahoe, CA
 - 🌱 I’m currently working on a web-page for my beutiful girlfriend!! 👱🏼‍♀️
 - ⚡ Fun fact: I have two wonderful dogs a pit/mix and corgi 🐶 🐶. I love to watch and play fútbol non-americana ⚽️...
-</div>
+
 
 <br/>
 
