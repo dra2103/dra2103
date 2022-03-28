@@ -8,7 +8,9 @@
 ### <div align="center"> Connect with Me!! </div>
 
 ### <div align="center"> Follow Me!! </div>
-<img src= https://img.shields.io/twitch/status/gor2103?style=for-the-badge alt=twitch style="margin-bottom: 5px;"/>
+<a href="https://www.twitch.tv/gor2103" target="_blank>
+<img src= https://img.shields.io/twitch/status/gor2103?style=for-the-badge alt=twitch style="margin-bottom: 5px;"/></a>
+                                                   
 - 📫 How to reach me: dra2103@gmail.com | www.linkedin.com/in/daniel-adamski
 - ⚡ Fun fact: I have two wonderful dogs a pit/mix and corgi 🐶 🐶. I love to watch and play fútbol non-americana ⚽️...
 
