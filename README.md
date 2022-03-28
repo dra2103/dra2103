@@ -42,7 +42,7 @@
   <a href="https://www.twitch.tv/gor2103" target="_blank">
     <img src=https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white alt=twitch style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.twitch.tv/gor2103" target="_blank">
+  <a href="https://www.youtube.com/channel/UCWO16UqhL7bGt9plH8HfqhQ" target="_blank">
     <img src=https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.instagram.com/damskeet/" target="_blank">
