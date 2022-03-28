@@ -6,6 +6,8 @@
 - 🔭 I’m am currently looking for a Software/Developer Engineering Job. Remote-Hybrid-Onsite-Tahoe, CA
 - 🌱 I’m currently working on a web-page for my beutiful girlfriend!! 👱🏼‍♀️
 
+<br/>
+
 
 ### <div align="center"> My Skills </div>
 <div align="center">
@@ -14,6 +16,9 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
   
 </div>
+<br/>
+
+
 <div align="center"> Connect with Me!! </div>
 
 <div align="center">
@@ -30,8 +35,12 @@
     <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"     />
   </a>
 </div>
+
+<br/>
                                                    
 - ⚡ Fun fact: I have two wonderful dogs a pit/mix and corgi 🐶 🐶. I love to watch and play fútbol non-americana ⚽️...
+
+<br/>
 
 ### <div align="center"> Github Stats </div>
 
