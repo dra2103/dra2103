@@ -49,7 +49,7 @@
   <a href="https://www.youtube.com/channel/UCWO16UqhL7bGt9plH8HfqhQ" target="_blank">
     <img src=https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
   </a>
-  <a href="www.instagram.com/damskeet/" target="_blank">
+  <a href="https://www.instagram.com/damskeet/" target="_blank">
     <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"     />
   </a>
 </div>
