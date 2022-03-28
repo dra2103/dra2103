@@ -1,4 +1,5 @@
-### Hi there!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### <div align="center"> Hi!!!  I'm Daniel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </div>
+
 
 
 - 🏠 I am from and currently live in San Diego
@@ -7,3 +8,5 @@
 - 💬 Ask me to connect!! Would love to learn something new!!
 - 📫 How to reach me: dra2103@gmail.com | www.linkedin.com/in/daniel-adamski
 - ⚡ Fun fact: I have two wonderful dogs a pit/mix and corgi 🐶 🐶. I love to watch and play fútbol non-americana ⚽️...
+
+
