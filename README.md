@@ -19,7 +19,7 @@
 <br/>
 
 
-<div align="center"> Connect with Me!! </div>
+### <div align="center"> Connect with Me!! </div>
 
 <div align="center">
   <a href="www.linkedin.com/in/daniel-adamski" target="_blank">
