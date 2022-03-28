@@ -6,7 +6,7 @@
 
 <br/>
 
-### <div align="center"> A lil anout me! </div>
+### <div align="center"> A lil about me! </div>
 - 🏠 I am from and currently live in San Diego
 - 🔭 I’m am currently looking for a Software/Developer Engineering Job. Remote-Hybrid-Onsite-Tahoe, CA
 - 🌱 I’m currently working on a web-page for my beutiful girlfriend!! 👱🏼‍♀️
