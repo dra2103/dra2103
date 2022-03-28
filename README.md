@@ -1,6 +1,9 @@
 ### <div align="center"> Hi!!!  I'm Daniel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </div>
 
 
+<img src="https://imgs.search.brave.com/JP2fzEv2GfCD71MFwMatc6MD2fjTJfwyQN98EMINhII/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4x/bkM4OXFEdVZkdkR2/LUtsRENsMGJBSGFF/SyZwaWQ9QXBp" align="center" style="width: 100%" />
+
+<br/>
 
 - 🏠 I am from and currently live in San Diego
 - 🔭 I’m am currently looking for a Software/Developer Engineering Job. Remote-Hybrid-Onsite-Tahoe, CA
