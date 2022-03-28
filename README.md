@@ -14,7 +14,7 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
   
 </div>
-### <div align="center"> Connect with Me!! </div>
+<div align="center"> Connect with Me!! </div>
 
 <div align="center">
   <a href="www.linkedin.com/in/daniel-adamski" target="_blank">
