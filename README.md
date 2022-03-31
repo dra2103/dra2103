@@ -7,8 +7,7 @@
 <br/>
 
 ### <div align="center"> A lil about me! </div>
-<p> My name is Daniel Admaski, I'm a Fullstack Developer and recetly graduated from Coding Dojo.  I am enthusiastic about front-end design, recently made an app called animon thats an interactive game for kids to learn how to take care of and interact with a pet before they own their first.  Im currently working on a website for my beautiful girlfereinds massage therapy business.  We own 2 dogs a corgi named "Barnaby" and a pit mix named "Rufio".  Please feel free to take a look at some of my reposirories and have a great day!! </p>
-
+<p> My name is Daniel Admaski, I'm a Fullstack Developer and recetly graduated from Coding Dojo.  I am enthusiastic about front-end design, recently made an app called animon thats an interactive game for kids to learn how to take care of and interact with a pet before they own their first.  Im currently working on a website for my beautiful girlfereinds massage therapy business.  We own 2 dogs a corgi named "Barnaby" and a pit mix named "Rufio".  Below is some of the skills I have and other ways to connect with me. Also feel free to take a look at some of my reposirories and have a great day!! </p>
 
 <br/>
 
