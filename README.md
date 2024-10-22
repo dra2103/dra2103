@@ -10,7 +10,7 @@
 <br/>
 
 ### <div align="center"> About me! </div>
-<p> My name is Daniel Admaski, I'm a taking classes through Codecademy to relearn Fullstack, I graduated from Coding Dojo in 2022 and failed to find a job in tech.  I currently work as a arborist groundsman for Crown Point Clippers, In my spare time I am learning fullstack developemnt again through Codecademy and have been enjoying it. I would like to take it further and learn AI or blockchain. I now I may have a long road ahead of me before landing a job, but it already has been a long wrong for me. connect with me. Also feel free to take a look at some of my repositories and have a great day!! </p>
+<p> My name is Daniel Admaski, I'm a taking classes through Codecademy to relearn Fullstack, I graduated from Coding Dojo in 2022 and failed to find a job in tech.  I currently work as a arborist groundsman for Crown Point Clippers, In my spare time I am learning fullstack developemnt again through Codecademy and have been enjoying it. I would like to take it further and learn AI or blockchain. A little abut myself I am huge soccer fan and have been since I started playing at the age of 3, I went to europe twice to play for CA South ODP team and team Diadora.  I went on to play D2 soccer for Humboldt State, Now Cal Poly Humboldt.  I now I may have a long road ahead of me before landing a job in the tech industry, but it already has been a long road for me. connect with me down below. Also feel free to take a look at some of my repositories and have a great day!! </p>
 
 <br/>
 
