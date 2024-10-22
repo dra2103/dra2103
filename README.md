@@ -10,7 +10,7 @@
 <br/>
 
 ### <div align="center"> About me! </div>
-<p> My name is Daniel Admaski, I'm a Fullstack Developer and recetly graduated from Coding Dojo.  I am enthusiastic about front-end design, recently made an app called animon thats an interactive game for kids to learn how to take care of and interact with a pet before they own their first.  I am taking courses through Amazon Web Services, and also learning blockchain technology.  Im currently working on a website for my beautiful girlfriends massage therapy business.  We own 2 dogs a corgi named "Barnaby" and a pit mix named "Rufio".  Below is some of the skills I have and other ways to connect with me. Also feel free to take a look at some of my reposirories and have a great day!! </p>
+<p> My name is Daniel Admaski, I'm a taking classes through Codecademy to relearn Fullstack, I graduated from Coding Dojo in 2022 and failed to find a job in tech.  I currently work as a arborist groundsman for Crown Point Clippers, In my spare time I am learning fullstack developemnt again through Codecademy and have been enjoying it. I would like to take it further and learn AI or blockchain. I now I may have a long road ahead of me before landing a job, but it already has been a long wrong for me. connect with me. Also feel free to take a look at some of my repositories and have a great day!! </p>
 
 <br/>
 
